@@ -17,6 +17,14 @@ Contains documentation related to defining the problem and preparing the initial
 ### 2. Data Collection and Preprocessing Phase
 Includes details about data sources, quality, and preprocessing steps:
 - **Raw Data Sources Identification.pdf**
+- ## 📊 Data Sources
+
+1. **World Food Production Dataset**  
+   [https://www.kaggle.com/datasets/rafsunahmad/world-food-production](https://www.kaggle.com/datasets/rafsunahmad/world-food-production)
+
+2. **Crop Production 1996–2021 Dataset**  
+   [https://www.kaggle.com/datasets/abhijitdahatonde/crop-production-1996-to-2021](https://www.kaggle.com/datasets/abhijitdahatonde/crop-production-1996-to-2021)
+    
 - **Data Exploration and Preprocessing Template.pdf**
 - **Data Quality Report Template.pdf**
 
@@ -41,6 +49,8 @@ Contains the working files used for analysis and dashboard creation:
 Includes final evaluation-ready documents:
 - **DA Report.pdf** → Final project report
 - **Project Demonstration video.pdf** → Walkthrough/summary of the project execution
+- vedio link:
+- https://drive.google.com/file/d/1J2sBrBiPc4SQCDl2Cx0uvq6zvgh-PRif/view?usp=sharing
 
 ---
 
