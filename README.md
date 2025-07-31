@@ -49,7 +49,7 @@ Contains the working files used for analysis and dashboard creation:
 Includes final evaluation-ready documents:
 - **DA Report.pdf** → Final project report
 - **Project Demonstration video.pdf** → Walkthrough/summary of the project execution
-- vedio link:
+- Demo vedio link:
 - https://drive.google.com/file/d/1J2sBrBiPc4SQCDl2Cx0uvq6zvgh-PRif/view?usp=sharing
 
 ---
